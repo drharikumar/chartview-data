@@ -1,0 +1,23 @@
+name: 0 Bootstrap stock list
+# Run ONCE by hand: writes stocks.csv from NSE's EQUITY_L.csv. Every other job reads stocks.csv.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  boot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build stocks.csv
+        run: python bootstrap_stocks.py
+      - name: Commit
+        run: |
+          git config user.name  "bootstrap"
+          git config user.email "bootstrap@users.noreply.github.com"
+          git add stocks.csv
+          git diff --cached --quiet && echo "No change" || { git commit -q -m "stocks.csv from NSE"; git push -q; }
