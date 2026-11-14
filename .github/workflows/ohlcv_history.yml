@@ -1,7 +1,6 @@
 name: Historical OHLCV (Yahoo)
 on:
   schedule:
-    - cron: "30 18 * * 1-5"   # 00:00 IST weekdays  - last 7 days   (after the 23:00 daily price job)
     - cron: "30 0 * * 6"      # 06:00 IST Saturday  - last 31 days
     - cron: "30 21 1 * *"     # 03:00 IST on the 2nd of every month - every year from 2010 (full refresh, picks up Yahoo's split adjustments)
   workflow_dispatch:
