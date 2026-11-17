@@ -30,6 +30,7 @@ DANGEE,Dangee Dums Limited,INE688Y01022,EQ,Consumer Discretionary,Consumer Servi
 DPSCLTD,DPSC Limited,INE360C01024,BE,Utilities,Power,Power,Integrated Power Utilities,override
 EIFFL,Euro India Fresh Foods Limited,INE546V01010,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products,Packaged Foods,override
 ELGIRUBCO,Elgi Rubber Company Limited,INE819L01012,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,kept:yahoo:Auto Parts (matches 84% of 92 BSE-classified stocks)
+ELPROINTL,Elpro International Limited,INE579B01039,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,kept:bse:ComHeader
 FOCUS,Focus Lighting and Fixtures Limited,INE593W01028,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Household Appliances,override
 GANGAFORGE,Ganga Forging Limited,INE691Z01023,EQ,Industrials,Capital Goods,Industrial Products,Castings & Forgings,override
 GEEKAYWIRE,Geekay Wires Limited,INE669X01032,EQ,Industrials,Capital Goods,Industrial Products,Iron & Steel Products,override
@@ -540,7 +541,6 @@ CIFL,Capital India Finance Limited,INE345H01024,EQ,Financial Services,Financial 
 CINELINE,Cineline India Limited,INE704H01022,EQ,Consumer Discretionary,Media Entertainment & Publication,Entertainment,Film Production Distribution & Exhibition,bse:ComHeader
 CINEVISTA,Cinevista Limited,INE039B01026,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,bse:ComHeader
 CIPLA,Cipla Limited,INE059A01026,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,bse:ComHeader
-CLCIND,CLC Industries Limited,INE376C01038,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,override
 CLEAN,Clean Science and Technology Limited,INE227W01023,EQ,Commodities,Chemicals,Chemicals & Petrochemicals,Specialty Chemicals,bse:ComHeader
 CLEANMAX,Clean Max Enviro Energy Solutions Limited,INE647U01026,EQ,Utilities,Power,Power,Power Generation,bse:ComHeader
 CLEDUCATE,CL Educate Limited,INE201M01029,EQ,Consumer Discretionary,Consumer Services,Other Consumer Services,Education,bse:ComHeader
@@ -721,7 +721,6 @@ ELGIEQUIP,Elgi Equipments Limited,INE285A01027,EQ,Industrials,Capital Goods,Indu
 ELIN,Elin Electronics Limited,INE050401020,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Household Appliances,bse:ComHeader
 ELITECON,Elitecon International Limited,INE669R01026,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Cigarettes & Tobacco Products,Cigarettes & Tobacco Products,bse:ComHeader
 ELLEN,Ellenbarrie Industrial Gases Limited,INE236E01022,EQ,Commodities,Chemicals,Chemicals & Petrochemicals,Industrial Gases,bse:ComHeader
-ELPROINTL,Elpro International Limited,INE579B01039,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,bse:ComHeader
 EMAMILTD,Emami Limited,INE548C01032,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products,Personal Care,bse:ComHeader
 EMAMIPAP,Emami Paper Mills Limited,INE830C01026,EQ,Commodities,Forest Materials,Paper Forest & Jute Products,Paper & Paper Products,bse:ComHeader
 EMAMIREAL,Emami Realty Limited,INE778K01012,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,bse:ComHeader
@@ -1295,7 +1294,6 @@ LANCORHOL,Lancor Holdings Limited,INE572G01025,BE,Consumer Discretionary,Realty,
 LANDMARK,Landmark Cars Limited,INE559R01029,EQ,Consumer Discretionary,Automobile and Auto Components,Automobiles,Auto -Dealer,bse:ComHeader
 LANDSMILL,Landsmill Green Limited,INE688J01023,BE,Services,Services,Commercial Services & Supplies,Trading & Distributors,bse:ComHeader
 LAOPALA,La Opala RG Limited,INE059D01020,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Glass - Consumer,bse:ComHeader
-LASA,Lasa Supergenerics Limited,INE670X01014,BE,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,override
 LASERPOWER,Laser Power & Infra Limited,INE17IR01028,EQ,Industrials,Capital Goods,Industrial Products,Cables - Electricals,bse:ComHeader
 LATENTVIEW,Latent View Analytics Limited,INE0I7C01011,EQ,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting,bse:ComHeader
 LAURUSLABS,Laurus Labs Limited,INE947Q01028,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,bse:ComHeader
@@ -1949,7 +1947,6 @@ SEDEMAC,SEDEMAC Mechatronics Limited,INE00XB01019,EQ,Consumer Discretionary,Auto
 SEIL,Shanti Educational Initiatives Limited,INE440T01028,EQ,Consumer Discretionary,Consumer Services,Other Consumer Services,Education,bse:ComHeader
 SEJALLTD,Sejal Glass Limited,INE955I01044,EQ,Industrials,Capital Goods,Industrial Products,Glass - Industrial,bse:ComHeader
 SEKURITIND,Saint Gobain Sekurit India Limited,INE068B01017,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,bse:ComHeader
-SELMC,SEL Manufacturing Company Limited,INE105I01020,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,override
 SEMAC,Semac Construction Limited,INE617A01013,EQ,Industrials,Construction,Construction,Civil Construction,bse:ComHeader
 SENCO,Senco Gold Limited,INE602W01027,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches,bse:ComHeader
 SENORES,Senores Pharmaceuticals Limited,INE0RB801010,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,bse:ComHeader
@@ -2315,7 +2312,6 @@ UNIPARTS,Uniparts India Limited,INE244O01017,EQ,Consumer Discretionary,Automobil
 UNITDSPR,United Spirits Limited,INE854D01024,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Beverages,Breweries & Distilleries,bse:ComHeader
 UNITECH,Unitech Limited,INE694A01020,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,bse:ComHeader
 UNITEDPOLY,United Polyfab Gujarat Limited,INE368U01029,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,bse:ComHeader
-UNIVAFOODS,Univa Foods Limited,INE275F01019,BE,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products,Packaged Foods,override
 UNIVCABLES,Universal Cables Limited,INE279A01012,EQ,Industrials,Capital Goods,Industrial Products,Cables - Electricals,bse:ComHeader
 UNIVPHOTO,Universus Photo Imagings Limited,INE03V001013,BE,Consumer Discretionary,Consumer Durables,Consumer Durables,Consumer Electronics,bse:ComHeader
 UNOMINDA,UNO Minda Limited,INE405E01023,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,bse:ComHeader
@@ -2481,10 +2477,10 @@ BANKA,Banka BioLoo Limited,INE862Y01015,BE,Utilities,Utilities,Unclassified,Uncl
 ESFL,Essen Speciality Films Limited,INE0ITO01014,EQ,Consumer Discretionary,Consumer Durables,Unclassified,Unclassified,"yahoo:Furnishings Fixtures & Appliances (sector only, 100% of 36)"
 ADOR,Ador Welding Limited,INE045A01017,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Specialty Industrial Machinery (sector only, 94% of 83)"
 AIAENG,AIA Engineering Limited,INE212H01026,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Specialty Industrial Machinery (sector only, 94% of 83)"
-AKUMS,Akums Drugs and Pharmaceuticals Limited,INE09XN01023,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 100 BSE-classified stocks)
+AKUMS,Akums Drugs and Pharmaceuticals Limited,INE09XN01023,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 99 BSE-classified stocks)
 ALICON,Alicon Castalloy Limited,INE062D01024,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Metal Fabrication (sector only, 68% of 34)"
-ALPINETEX,Alpine Texworld Limited,INE1JCQ01037,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
-AMBIKCO,Ambika Cotton Mills Limited,INE540G01014,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+ALPINETEX,Alpine Texworld Limited,INE1JCQ01037,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
+AMBIKCO,Ambika Cotton Mills Limited,INE540G01014,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 AMNPLST,Amines & Plasticizers Limited,INE275D01022,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Chemicals (sector only, 82% of 45)"
 ARCHIES,Archies Limited,INE731A01020,EQ,Consumer Discretionary,Consumer Services,Retailing,Speciality Retail,yahoo:Specialty Retail (matches 75% of 4 BSE-classified stocks)
 ARCIL,Asset Reconstruction Company (India) Limited,INE148G01016,EQ,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Asset Management (sector only, 95% of 41)"
@@ -2497,7 +2493,7 @@ ASKAUTOLTD,ASK Automotive Limited,INE491J01022,EQ,Consumer Discretionary,Automob
 ASSAMENT,Assam Entrade Limited,INE165G01010,EQ,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Capital Markets (sector only, 95% of 75)"
 ASTEC,Astec LifeSciences Limited,INE563J01010,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Agricultural Inputs (sector only, 83% of 47)"
 AUGMONT,Augmont Enterprises Limited,INE16W401027,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches,yahoo:Luxury Goods (matches 97% of 39 BSE-classified stocks)
-AUROPHARMA,Aurobindo Pharma Limited,INE406A01037,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 100 BSE-classified stocks)
+AUROPHARMA,Aurobindo Pharma Limited,INE406A01037,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 99 BSE-classified stocks)
 BALAJEE,Shree Tirupati Balajee Agro Trading Company Limited,INE0S2G01011,EQ,Industrials,Capital Goods,Industrial Products,Packaging,yahoo:Packaging & Containers (matches 78% of 36 BSE-classified stocks)
 BANCOINDIA,Banco Products (I) Limited,INE213C01025,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,yahoo:Auto Parts (matches 84% of 95 BSE-classified stocks)
 BANKBARODA,Bank of Baroda,INE028A01039,EQ,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Banks - Regional (sector only, 100% of 39)"
@@ -2518,7 +2514,7 @@ DALBHARAT,Dalmia Bharat Limited,INE00R701025,EQ,Commodities,Construction Materia
 DIAMINESQ,Diamines & Chemicals Limited,INE591D01014,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Chemicals (sector only, 82% of 45)"
 DIGIDRIVE,Digidrive Distributors Limited,INE0PSC01024,EQ,Consumer Discretionary,Consumer Services,Retailing,E-Retail/ E-Commerce,yahoo:Internet Retail (matches 88% of 8 BSE-classified stocks)
 DSSL,Dynacons Systems & Solutions Limited,INE417B01040,EQ,Information Technology,Information Technology,Unclassified,Unclassified,"yahoo:Information Technology Services (sector only, 86% of 71)"
-EASTSILK,Eastern Silk Industries Limited,INE962C01035,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+EASTSILK,Eastern Silk Industries Limited,INE962C01035,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 ESDS,ESDS Software Solution Limited,INE0DRI01029,EQ,Information Technology,Information Technology,Unclassified,Unclassified,"yahoo:Information Technology Services (sector only, 86% of 71)"
 ESSARSHPNG,Essar Shipping Limited,INE122M01019,EQ,Services,Services,Unclassified,Unclassified,"yahoo:Marine Shipping (sector only, 90% of 10)"
 EUROPRATIK,Euro Pratik Sales Limited,INE198501012,EQ,Commodities,Construction Materials,Cement & Cement Products,Cement & Cement Products,yahoo:Building Materials (matches 77% of 35 BSE-classified stocks)
@@ -2529,7 +2525,7 @@ FUSION,Fusion Finance Limited,INE139R01012,EQ,Financial Services,Financial Servi
 GOLDTECH,AION-TECH SOLUTIONS LIMITED,INE805A01014,BE,Information Technology,Information Technology,Unclassified,Unclassified,"yahoo:Information Technology Services (sector only, 86% of 71)"
 GRAPHITE,Graphite India Limited,INE371A01025,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Electrical Equipment & Parts (sector only, 85% of 59)"
 HEIDELBERG,HeidelbergCement India Limited,INE578A01017,EQ,Commodities,Construction Materials,Cement & Cement Products,Cement & Cement Products,yahoo:Building Materials (matches 77% of 35 BSE-classified stocks)
-INDORAMA,Indo Rama Synthetics (India) Limited,INE156A01020,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+INDORAMA,Indo Rama Synthetics (India) Limited,INE156A01020,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 INDTONER,Indian Toners & Developers Limited,INE826B01026,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Specialty Chemicals (sector only, 72% of 127)"
 INNOVISION,Innovision Limited,INE0ADB01012,EQ,Services,Services,Commercial Services & Supplies,Diversified Commercial Services,yahoo:Staffing & Employment Services (matches 100% of 4 BSE-classified stocks)
 INSECTICID,Insecticides (India) Limited,INE070I01018,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Agricultural Inputs (sector only, 83% of 47)"
@@ -2540,14 +2536,14 @@ KEC,KEC International Limited,INE389H01022,EQ,Industrials,Construction,Construct
 KIRIINDUS,Kiri Industries Limited,INE415I01015,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Specialty Chemicals (sector only, 72% of 127)"
 KRIDHANINF,Kridhan Infra Limited,INE524L01026,EQ,Industrials,Capital Goods,Industrial Products,Iron & Steel Products,yahoo:Steel (matches 64% of 88 BSE-classified stocks)
 KRITINUT,Kriti Nutrients Limited,INE798K01010,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Unclassified,Unclassified,"yahoo:Packaged Foods (sector only, 98% of 58)"
-LAHOTIOV,Lahoti Overseas Limited,INE515C01023,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+LAHOTIOV,Lahoti Overseas Limited,INE515C01023,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 MADHUCON,Madhucon Projects Limited,INE378D01032,EQ,Industrials,Construction,Construction,Civil Construction,yahoo:Engineering & Construction (matches 69% of 98 BSE-classified stocks)
 MANCREDIT,Mangal Credit and Fincorp Limited,INE545L01039,EQ,Financial Services,Financial Services,Finance,Non Banking Financial Company (NBFC),yahoo:Credit Services (matches 72% of 64 BSE-classified stocks)
-MARALOVER,Maral Overseas Limited,INE882A01013,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+MARALOVER,Maral Overseas Limited,INE882A01013,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 MARUTI,Maruti Suzuki India Limited,INE585B01010,EQ,Consumer Discretionary,Automobile and Auto Components,Unclassified,Unclassified,"yahoo:Auto Manufacturers (sector only, 73% of 15)"
 MODIS,Modis Navnirman Limited,INE0L0L01012,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,yahoo:Real Estate - Development (matches 93% of 68 BSE-classified stocks)
 NAVINFLUOR,Navin Fluorine International Limited,INE048G01026,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Chemicals (sector only, 82% of 45)"
-NEULANDLAB,Neuland Laboratories Limited,INE794A01010,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 100 BSE-classified stocks)
+NEULANDLAB,Neuland Laboratories Limited,INE794A01010,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 99 BSE-classified stocks)
 NURECA,Nureca Limited,INE0DSF01015,BE,Healthcare,Healthcare,Healthcare Equipment & Supplies,Medical Equipment & Supplies,yahoo:Medical Devices (matches 75% of 4 BSE-classified stocks)
 OMAXAUTO,Omax Autos Limited,INE090B01011,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,yahoo:Auto Parts (matches 84% of 95 BSE-classified stocks)
 ONELIFECAP,Onelife Capital Advisors Limited,INE912L01015,BE,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Capital Markets (sector only, 95% of 75)"
@@ -2555,7 +2551,7 @@ ONWARDTEC,Onward Technologies Limited,INE229A01017,BE,Information Technology,Inf
 ORCHASP,Orchasp Limited,INE215B01022,EQ,Information Technology,Information Technology,Unclassified,Unclassified,"yahoo:Software - Application (sector only, 80% of 41)"
 PRECAM,Precision Camshafts Limited,INE484I01029,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,yahoo:Auto Parts (matches 84% of 95 BSE-classified stocks)
 PROSTARM,Prostarm Info Systems Limited,INE0BX301013,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Electrical Equipment & Parts (sector only, 85% of 59)"
-RAJPALAYAM,Rajapalayam Mills Limited,INE296E01026,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+RAJPALAYAM,Rajapalayam Mills Limited,INE296E01026,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 ROTO,Roto Pumps Limited,INE535D01037,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Specialty Industrial Machinery (sector only, 94% of 83)"
 ROUTE,ROUTE MOBILE LIMITED,INE450U01017,EQ,Telecommunication,Telecommunication,Unclassified,Unclassified,"yahoo:Telecom Services (sector only, 93% of 15)"
 SAB,SAB Industries Limited,INE137M01017,EQ,Industrials,Construction,Construction,Civil Construction,yahoo:Engineering & Construction (matches 69% of 98 BSE-classified stocks)
@@ -2585,9 +2581,13 @@ TANAA,Taneja Aerospace & Aviation Limited,INE692C01020,EQ,Industrials,Capital Go
 TDPOWERSYS,TD Power Systems Limited,INE419M01035,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Specialty Industrial Machinery (sector only, 94% of 83)"
 THANGAMAYL,Thangamayil Jewellery Limited,INE085J01014,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches,yahoo:Luxury Goods (matches 97% of 39 BSE-classified stocks)
 TIRUMALCHM,Thirumalai Chemicals Limited,INE338A01024,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Specialty Chemicals (sector only, 72% of 127)"
-TRIDENT,Trident Limited,INE064C01022,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 113 BSE-classified stocks)
+TRIDENT,Trident Limited,INE064C01022,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 84% of 111 BSE-classified stocks)
 UDAYJEW,Uday Jewellery Industries Limited,INE551B01012,BE,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches,yahoo:Luxury Goods (matches 97% of 39 BSE-classified stocks)
 VIKASLIFE,Vikas Lifecare Limited,INE161L01027,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Unclassified,Unclassified,"yahoo:Farm Products (sector only, 89% of 27)"
 VPRPL,Vishnu Prakash R Punglia Limited,INE0AE001013,EQ,Industrials,Construction,Construction,Civil Construction,yahoo:Engineering & Construction (matches 69% of 98 BSE-classified stocks)
 WIPRO,Wipro Limited,INE075A01022,EQ,Information Technology,Information Technology,Unclassified,Unclassified,"yahoo:Information Technology Services (sector only, 86% of 71)"
 ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,INE342J01019,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,yahoo:Auto Parts (matches 84% of 95 BSE-classified stocks)
+CLCIND,,,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,override
+LASA,,,BE,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,override
+SELMC,,,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,override
+UNIVAFOODS,,,BE,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products,Packaged Foods,override
