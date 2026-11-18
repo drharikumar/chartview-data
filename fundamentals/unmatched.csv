@@ -1,4 +1,6 @@
 Symbol,ISIN,Reason
+DRAGARWQ,,not in NSE's equity list (ETF / fund / bond / other instrument)
+ELPROINTL,,not in NSE's equity list (ETF / fund / bond / other instrument)
 AARNAV,INE750R01016,"classified, but no shares/float from any source"
 AMAL,INE841D01013,"classified, but no shares/float from any source"
 ARTEMISMED,INE025R01021,"classified, but no shares/float from any source"
@@ -24,6 +26,7 @@ HTEL,INE0LEG01024,"classified, but no shares/float from any source"
 IIRM,INE670C01026,"classified, but no shares/float from any source"
 IONEXCHANG,INE570A01022,"classified, but no shares/float from any source"
 ITL,INE478D01014,"classified, but no shares/float from any source"
+JKSHAH,INE2OD001016,"classified, but no shares/float from any source"
 KARAMTARA,INE590T01012,"classified, but no shares/float from any source"
 KHAZANCHI,INE0OWC01011,"classified, but no shares/float from any source"
 KIRANVYPAR,INE555P01013,"classified, but no shares/float from any source"
@@ -63,7 +66,6 @@ ZODIAC,INE761Y01019,"classified, but no shares/float from any source"
 GKWLIMITED,INE528A01020,second source found nothing (NSE blocked/empty; Yahoo industry 'Specialty Business Services' not mappable)
 REPL,INE364Z01019,second source found nothing (NSE blocked/empty; Yahoo industry 'Consulting Services' not mappable)
 ASIANTNE,INE822B01017,second source found nothing (NSE blocked/empty; Yahoo industry 'Food Distribution' not mappable)
-AURUM,INE898S01029,second source found nothing (NSE blocked/empty; Yahoo industry 'Real Estate Services' not mappable)
 AVANTEL,INE005B01027,second source found nothing (NSE blocked/empty; Yahoo industry 'Communication Equipment' not mappable)
 BRIGHTOUTD,INE0OMI01019,ComHeader had no sector / industry / basic-industry (run probe)
 BRNL,INE727S01012,second source found nothing (NSE blocked/empty; Yahoo industry 'Infrastructure Operations' not mappable)

@@ -30,7 +30,6 @@ DANGEE,Dangee Dums Limited,INE688Y01022,EQ,Consumer Discretionary,Consumer Servi
 DPSCLTD,DPSC Limited,INE360C01024,BE,Utilities,Power,Power,Integrated Power Utilities,override
 EIFFL,Euro India Fresh Foods Limited,INE546V01010,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products,Packaged Foods,override
 ELGIRUBCO,Elgi Rubber Company Limited,INE819L01012,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,kept:yahoo:Auto Parts (matches 84% of 92 BSE-classified stocks)
-ELPROINTL,Elpro International Limited,INE579B01039,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,kept:bse:ComHeader
 FOCUS,Focus Lighting and Fixtures Limited,INE593W01028,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Household Appliances,override
 GANGAFORGE,Ganga Forging Limited,INE691Z01023,EQ,Industrials,Capital Goods,Industrial Products,Castings & Forgings,override
 GEEKAYWIRE,Geekay Wires Limited,INE669X01032,EQ,Industrials,Capital Goods,Industrial Products,Iron & Steel Products,override
@@ -677,7 +676,6 @@ DOMS,DOMS Industries Limited,INE321T01012,EQ,Fast Moving Consumer Goods,Fast Mov
 DONEAR,Donear Industries Limited,INE668D01028,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,bse:ComHeader
 DPABHUSHAN,D. P. Abhushan Limited,INE266Y01019,BE,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches,bse:ComHeader
 DPWIRES,D P Wires Limited,INE864X01013,EQ,Industrials,Capital Goods,Industrial Products,Iron & Steel Products,bse:ComHeader
-DRAGARWQ,Dr Agarwals Eye Hospital Limited,INE934C01018,EQ,Healthcare,Healthcare,Healthcare Services,Hospital,bse:ComHeader
 DRCSYSTEMS,DRC Systems India Limited,INE03RS01027,EQ,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting,bse:ComHeader
 DREAMFOLKS,Dreamfolks Services Limited,INE0JS101016,EQ,Services,Services,Transport Infrastructure,Airport & Airport services,bse:ComHeader
 DREDGECORP,Dredging Corporation of India Limited,INE506A01018,EQ,Services,Services,Engineering Services,Dredging,bse:ComHeader
@@ -1153,6 +1151,7 @@ JKIL,J.Kumar Infraprojects Limited,INE576I01022,EQ,Industrials,Construction,Cons
 JKIPL,Jinkushal Industries Limited,INE1FF001016,EQ,Industrials,Capital Goods,Agricultural Commercial & Construction Vehicles,Dealers-Commercial Vehicles Tractors Construction Vehicles,bse:ComHeader
 JKLAKSHMI,JK Lakshmi Cement Limited,INE786A01032,EQ,Commodities,Construction Materials,Cement & Cement Products,Cement & Cement Products,bse:ComHeader
 JKPAPER,JK Paper Limited,INE789E01012,EQ,Commodities,Forest Materials,Paper Forest & Jute Products,Paper & Paper Products,bse:ComHeader
+JKSHAH,J.K.Shah Commerce Education Limited,INE2OD001016,BE,Consumer Discretionary,Consumer Services,Other Consumer Services,Education,bse:ComHeader
 JKTYRE,JK Tyre & Industries Limited,INE573A01042,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Tyres & Rubber Products,bse:ComHeader
 JLHL,Jupiter Life Line Hospitals Limited,INE682M01020,EQ,Healthcare,Healthcare,Healthcare Services,Hospital,bse:ComHeader
 JMFINANCIL,JM Financial Limited,INE780C01023,EQ,Financial Services,Financial Services,Finance,Holding Company,bse:ComHeader
@@ -2494,6 +2493,7 @@ ASSAMENT,Assam Entrade Limited,INE165G01010,EQ,Financial Services,Financial Serv
 ASTEC,Astec LifeSciences Limited,INE563J01010,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Agricultural Inputs (sector only, 83% of 47)"
 AUGMONT,Augmont Enterprises Limited,INE16W401027,EQ,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches,yahoo:Luxury Goods (matches 97% of 39 BSE-classified stocks)
 AUROPHARMA,Aurobindo Pharma Limited,INE406A01037,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,yahoo:Drug Manufacturers - Specialty & Generic (matches 97% of 99 BSE-classified stocks)
+AURUM,Aurum PropTech Limited,INE898S01029,EQ,Services,Services,Unclassified,Unclassified,"yahoo:Real Estate Services (sector only, 62% of 26)"
 BALAJEE,Shree Tirupati Balajee Agro Trading Company Limited,INE0S2G01011,EQ,Industrials,Capital Goods,Industrial Products,Packaging,yahoo:Packaging & Containers (matches 78% of 36 BSE-classified stocks)
 BANCOINDIA,Banco Products (I) Limited,INE213C01025,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,yahoo:Auto Parts (matches 84% of 95 BSE-classified stocks)
 BANKBARODA,Bank of Baroda,INE028A01039,EQ,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Banks - Regional (sector only, 100% of 39)"
