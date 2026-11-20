@@ -1,6 +1,7 @@
 Symbol,ISIN,Reason
 DRAGARWQ,,not in NSE's equity list (ETF / fund / bond / other instrument)
 ELPROINTL,,not in NSE's equity list (ETF / fund / bond / other instrument)
+SHUKRAPHAR,,not in NSE's equity list (ETF / fund / bond / other instrument)
 VIRAT,,not in NSE's equity list (ETF / fund / bond / other instrument)
 AARNAV,INE750R01016,"classified, but no shares/float from any source"
 AMAL,INE841D01013,"classified, but no shares/float from any source"
@@ -51,6 +52,7 @@ RENTOMOJO,INE08T701025,"classified, but no shares/float from any source"
 RNBDENIMS,INE012Q01039,"classified, but no shares/float from any source"
 SAMBANDAM,INE304D01012,"classified, but no shares/float from any source"
 SCANSTL,INE099G01011,"classified, but no shares/float from any source"
+SHUKRAMED,INE551C01044,"classified, but no shares/float from any source"
 SINGERIND,INE638A01035,"classified, but no shares/float from any source"
 SKMEGGPROD,INE411D01023,"classified, but no shares/float from any source"
 SRIKPRIND,INE009C01019,"classified, but no shares/float from any source"
