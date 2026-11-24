@@ -68,6 +68,7 @@ VEEFIN,INE0Q0M01015,"classified, but no shares/float from any source"
 VEEGALAND,INE1JTV01015,"classified, but no shares/float from any source"
 ZODIAC,INE761Y01019,"classified, but no shares/float from any source"
 GKWLIMITED,INE528A01020,second source found nothing (NSE blocked/empty; Yahoo industry 'Specialty Business Services' not mappable)
+OLIL,INE0OPS01011,"no BSE listing for this ISIN, so no classification"
 REPL,INE364Z01019,second source found nothing (NSE blocked/empty; Yahoo industry 'Consulting Services' not mappable)
 ASIANTNE,INE822B01017,second source found nothing (NSE blocked/empty; Yahoo industry 'Food Distribution' not mappable)
 AVANTEL,INE005B01027,second source found nothing (NSE blocked/empty; Yahoo industry 'Communication Equipment' not mappable)
