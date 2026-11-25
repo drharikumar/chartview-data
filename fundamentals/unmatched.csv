@@ -2,6 +2,7 @@ Symbol,ISIN,Reason
 DRAGARWQ,,not in NSE's equity list (ETF / fund / bond / other instrument)
 ELPROINTL,,not in NSE's equity list (ETF / fund / bond / other instrument)
 SHUKRAPHAR,,not in NSE's equity list (ETF / fund / bond / other instrument)
+UMIYA-MRO,,not in NSE's equity list (ETF / fund / bond / other instrument)
 VIRAT,,not in NSE's equity list (ETF / fund / bond / other instrument)
 AARNAV,INE750R01016,"classified, but no shares/float from any source"
 AMAL,INE841D01013,"classified, but no shares/float from any source"
@@ -39,6 +40,7 @@ MANIKA,INE0KWF01020,"classified, but no shares/float from any source"
 MCCHRLS-B,INE435D01014,"classified, but no shares/float from any source"
 MITSU,INE317V01016,"classified, but no shares/float from any source"
 MPIMANIPAL,INE241U01028,"classified, but no shares/float from any source"
+MROTEK,INE398B01018,"classified, but no shares/float from any source"
 MYSORPETRO,INE741A01011,"classified, but no shares/float from any source"
 NEAGI,INE605D01012,"classified, but no shares/float from any source"
 PARASHLTH,INE661T01029,"classified, but no shares/float from any source"
@@ -67,6 +69,7 @@ TURTLEMINT,INE0OC301013,"classified, but no shares/float from any source"
 VEEFIN,INE0Q0M01015,"classified, but no shares/float from any source"
 VEEGALAND,INE1JTV01015,"classified, but no shares/float from any source"
 ZODIAC,INE761Y01019,"classified, but no shares/float from any source"
+CRYSTALCP,INE101P01016,"no BSE listing for this ISIN, so no classification"
 GKWLIMITED,INE528A01020,second source found nothing (NSE blocked/empty; Yahoo industry 'Specialty Business Services' not mappable)
 OLIL,INE0OPS01011,"no BSE listing for this ISIN, so no classification"
 REPL,INE364Z01019,second source found nothing (NSE blocked/empty; Yahoo industry 'Consulting Services' not mappable)
