@@ -1,8 +1,8 @@
 name: Daily OHLCV (Yahoo)
-# Every day at 17:00, 19:00, 21:00 and 23:00 IST. Later slots catch prices Yahoo posted late. A slot with nothing new does nothing.
+# Every hour, every day. A run only commits when Yahoo's numbers changed, so quiet hours add nothing.
 on:
   schedule:
-    - cron: "47 11,13,15,17 * * 1-5"   # 17:17, 19:17, 21:17, 23:17 IST, Mon-Fri only
+    - cron: "17 * * * *"               # every hour at :17 UTC (:47 IST); the app starts any run GitHub skips
   workflow_dispatch: {}
 permissions:
   contents: write
