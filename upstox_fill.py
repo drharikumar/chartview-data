@@ -7,7 +7,7 @@ def rd(p, gz=False):
     if not os.path.exists(p): return []
     with (gzip.open(p, "rt", newline="") if gz else open(p, newline="")) as f:
         r = csv.reader(f); next(r, None); return [x for x in r if len(x) == 8]
-def main(days=10, gap=25.0):
+def main(days=30, gap=25.0):
     t = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).date()
     d0, d1 = str(t - dt.timedelta(days=days)), str(t); up, yh, dl = {}, {}, {}
     for y in {d0[:4], d1[:4]}:
