@@ -170,6 +170,7 @@ def cmd_daily(a, yf):
     json.dump({"dates": dates, "updated": dt.datetime.utcnow().isoformat() + "Z"}, open(os.path.join(ddir, "index.json"), "w"))
     miss = write_missing(a.out, syms, got)
     print("daily: latest %s, %d symbols; %d days kept; %d symbols without data (missing.csv)" % (latest, len(by_date[latest]), len(dates), len(miss)))
+    if os.path.exists("upstox_fill.py"): os.system("python upstox_fill.py")   # Upstox fills what Yahoo is missing
     return 0
 
 
